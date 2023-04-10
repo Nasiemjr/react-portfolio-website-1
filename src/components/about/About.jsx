@@ -19,7 +19,7 @@ export const About = () => {
       <div className="container about__container">
         <div className="about__me">
           <div className="about__me-image">
-            <img src={PHOTO} alt='About image'/>
+            <img src={PHOTO} alt='About image' width='381.523' height='381.523'/>
           </div>
         </div>
 
