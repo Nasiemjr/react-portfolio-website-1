@@ -21,7 +21,6 @@ export const App = () => {
         <Portfolio/>
         <Testimonials/>
         <Contact/>
-        <Footer/>
     </>
   )
 }
