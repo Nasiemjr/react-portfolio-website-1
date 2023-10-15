@@ -6,7 +6,7 @@ import {IoLogoTwitter} from 'react-icons/io'
 
 export const Footer = () => {
   return (
-    <div>
+    <footer>
       <a href='#' className='footer__logo'>EGATOR</a>
 
     <ul className='permalinks'>
@@ -29,6 +29,6 @@ export const Footer = () => {
       <small>&copy; EGATOR Tutorials. All rights reserved.</small>
     </div>
 
-    </div>
+    </footer>
   )
 }
